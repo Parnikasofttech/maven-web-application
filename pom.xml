@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.127.120.139:8081/parnikatechnologies/repository/Testreporelease/</url>
+	      <url>http://65.2.121.221:8081/parnikatechnologies/repository/Testreporelease/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.127.120.139:8081/parnikatechnologies/repository/TestrepoSnapshot/</url>
+	      <url>http://65.2.121.221:8081/parnikatechnologies/repository/TestrepoSnapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
